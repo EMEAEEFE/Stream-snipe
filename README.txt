@@ -1,0 +1,1 @@
+This is a deployment starter for PUBG Stream Sniper. Use with React or Next.js build output.
